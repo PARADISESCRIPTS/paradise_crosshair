@@ -1,0 +1,14 @@
+.reticle-wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+}
+
+#circle {
+  width: var(--crosshair-width);
+  height: var(--crosshair-height);
+  border-radius: 50%;
+  background: rgb(255, 255, 255);
+  border: 1px solid black;
+}
