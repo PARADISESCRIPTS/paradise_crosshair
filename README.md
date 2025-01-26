@@ -1,2 +1,3 @@
-# paradise_crosshair
- A Standalone Crosshair
+# Crosshair
+
+## Make Sure You Have ox_lib Installed!!
